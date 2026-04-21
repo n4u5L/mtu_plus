@@ -10,5 +10,6 @@ int main(int argc, char** argv) {
   auto* item = new ui::gvItem(120, 20);
   scene.addItem(item);
   view.show();
+
   return app.exec();
 }
