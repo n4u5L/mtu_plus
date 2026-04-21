@@ -1,0 +1,7 @@
+.cache/
+.vs/
+build/
+out/
+python/
+CMakeSettings.json
+CMakePresets.json
